@@ -1,5 +1,5 @@
 import Hero from "../components/Hero";
-import Portfolio from "../components/portfolio";
+import Portfolio from "../components/Portfolio";
 
 function Work() {
   return (
